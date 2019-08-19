@@ -62,6 +62,7 @@ code/.ipynb_*
 code/my.*
 code/corpus*
 *bible*
+.ipynb_checkpoints
 
 .idea
 run.sh
